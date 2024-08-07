@@ -1,5 +1,8 @@
-## About
-This organization contains plugins developed for the BlockCityTycoon Minecraft server.
+## Об организации
+Здесь находятся все плагины, разрабатываемые специально для майнкрафт сервера BlockCityTycoon.
+
+### BlockCityTycoon
+Это сервер майнкрафт, сделанный в стиле игр жанра Tycoon.
 <!--
 
 **Here are some ideas to get you started:**
